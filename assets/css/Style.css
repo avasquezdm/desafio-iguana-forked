@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+}
+
+#titulo1 {
+    font-size: 50px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font: normal normal medium 50px/59px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.franja {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+    background-color: #000000;
+    
+}
+.cajaiguana {
+    background-color: #000000;
+}
+.imgheader {
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+.section1 {
+  
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1; }
+
+.caja1 {
+    font: normal normal 300 16px/19px 
+    text-align: left;
+    letter-spacing: 0px;
+    top: 876px;
+    left: 150px;
+    float: left;
+    background-color: black;
+    width: 475px;
+    height: 197px;
+    margin-left: 150px;
+    margin-top: 76px;
+    margin-right: 197px;
+}    
+
+.parrafo {
+    font: normal normal 300 16px/19px Raleway;
+    color: #FFFFFF;
+    
+}
+
+.caja2 {
+    top: 845px;
+    left: 731px;
+    float: left;
+    background-color: black;
+    width: 399px;
+    height: 237px;
+}
+
+.img1 {
+top: 845px;
+left: 731px;
+width: 399px;
+height: 237px;
+margin-top: 45px;
+margin-right: 150px;}
+
+.futures {
+    text-align: center;
+top: 1141px;
+left: 0px;
+width: 1280px;
+height: 348px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.98;
+
+}
+
+h2 {
+    padding-top: 75px;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 40px
+}
+
+.feature {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    width: 30%;
+    padding: 1%;
+    display: inline-block;
+    
+}
+
+.feature i {
+    margin-top: 20px;
+  display: block;
+  padding: 0.5em;
+}
+
+.fa-solid {
+    color: #FFFFFF;
+    
+}
+
+.gallery {
+    padding-left: 12%;
+    background-color: #000000; opacity: 96%;
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+
+}
+
+.photo {
+    margin-top: 73px ;
+    display: inline-block;
+}
+
+.footer {
+   
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+}
+
+h3 {
+    padding-top: 32px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
